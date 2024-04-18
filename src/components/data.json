@@ -1,0 +1,18 @@
+[
+    {
+        "city": "Boston", 
+        "emoticon": "😀"
+    }, 
+    {
+        "city": "New York",
+        "emoticon": "😅"
+    }, 
+    {
+        "city": "Tokyo",
+        "emoticon": "🤔"
+    }, 
+    {
+        "city": "Los Angeles",
+        "emoticon": "😎"
+    }
+]

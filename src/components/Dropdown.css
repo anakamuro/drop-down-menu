@@ -1,0 +1,44 @@
+.dropdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.drop-btn {
+    background-color: #41f1d7;
+    font-weight: 600;
+    padding: 4px;
+    width: 180px;
+    height: 50px;
+    border-color: transparent;
+    color: black;
+    border-radius: 5px;
+}
+.fa-solid {
+    margin-left: 20%;
+}
+.items {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(197, 100%, 50%);
+    width: 170px;
+    border-radius: 8px;
+    padding: 10px;
+}
+div.item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border-radius: 5px;
+    border-left: 5px;
+}
+div.item:hover {
+  cursor: pointer;
+  border-color: black;
+  border-width: 0 0 0 5px;
+  background-color: white;
+}
